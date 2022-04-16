@@ -16,11 +16,11 @@ IT intern at Techint Group
 <li> Python
 <li> Solidity
 <li> SmallTalk
-<li> Haskell
-<li> Javascript
-<li> ASM | C
-<li> .NET | C#
+<li> Javascript | Node
 <li> HTML | CSS
+<li> .NET | C#
+<li> ASM | C
+<li> Haskell
 <li> GIT
 <li> 🧐 And more... I'm always trying to learn something new.
 

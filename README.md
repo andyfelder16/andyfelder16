@@ -35,7 +35,7 @@ IT intern at Techint Group
 
 <p align="center">
 
-<a href="https://afel.site/"><img alt="Website" src="https://img.shields.io/badge/Website-black?style=flat-square&logo=google-chrome"></a> <a href="https://www.linkedin.com/in/andresfelder/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin"></a> <a href="https://www.twitter.com/https://twitter.com/afel_xyz/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter"></a> <a href="mailto:andyfelder16@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail"></a>
+<a href="https://afel.site/"><img alt="Website" src="https://img.shields.io/badge/Website-black?style=flat-square&logo=google-chrome"></a> <a href="https://www.linkedin.com/in/andresfelder/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin"></a> <a href="https://www.twitter.com/afel_xyz/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter"></a> <a href="mailto:andyfelder16@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail"></a>
 </p>
 <hr>
 

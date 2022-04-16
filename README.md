@@ -26,7 +26,7 @@ IT intern at Techint Group
 
 </ul>
 
-<h3> 🌐 Most Used lenguages (on my github): </h3>
+<h3> 🌐 Most used lenguages (on my github): </h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyfelder16&show_icons=true)
 

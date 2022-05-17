@@ -5,7 +5,6 @@
 | From Argentina | 22 years old |</br>
 Software Developer </br>
 Computer Science student at <a href="https://www.dc.uba.ar/">University of Buenos Aires</a></br>
-IT intern at Techint Group 
 </em></p>
 
 <hr>

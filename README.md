@@ -1,5 +1,4 @@
 <h2> Hi, I'm Andy! <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="150">
 
 <p><em>
 | From Argentina | 22 years old |</br>
@@ -21,13 +20,9 @@ Computer Science student at <a href="https://www.dc.uba.ar/">University of Bueno
 <li> ASM | C
 <li> Haskell
 <li> GIT
-<li> 🧐 And more... I'm always trying to learn something new.
+<li> And more... I'm always trying to learn something new.
 
 </ul>
-
-<h3> 🌐 Most used lenguages (on my github): </h3>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andyfelder16&show_icons=true)
 
 <hr>
 <h3> 🤝🏻 Connect with Me </h3>

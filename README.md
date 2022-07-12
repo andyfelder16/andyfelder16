@@ -1,5 +1,3 @@
-<h2> Hi, I'm Andy!</h2>
-
 <p><em>
 | From Argentina | 22 years old |</br>
 Software Developer </br>

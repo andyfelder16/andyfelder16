@@ -1,11 +1,10 @@
 <p><em>
-| From Argentina |</br>
 Software Developer </br>
 Computer Science student at <a href="https://www.dc.uba.ar/">University of Buenos Aires</a></br>
 </em></p>
 
 <hr>
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> Connect with Me </h3>
 
 <p align="center">
 

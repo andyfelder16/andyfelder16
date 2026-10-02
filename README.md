@@ -3,5 +3,6 @@
     <li>Computer Science MSc student at <a href="https://www.dc.uba.ar/" target="_blank" style="color: #000; text-decoration: none; font-weight: bold;">University of Buenos Aires</a></li>
     <li>Collaborating with <a href="https://lafhis.dc.uba.ar/site/" target="_blank" style="color: #000; text-decoration: none; font-weight: bold;">LAFHIS</a> on automated testing for APIs backed by graph databases</li>
     <li>Currently making things at <a href="https://endless.app" target="_blank" style="color: #000; text-decoration: none; font-weight: bold;">Endless</a></li>
+    <li><a href="https://afel.dev" target="_blank" style="color: #000; text-decoration: none; font-weight: bold;">https://afel.dev</a></li>
 </ul>
 <hr style="border: 0; height: 1px; background: #333; margin: 10px 0;">
